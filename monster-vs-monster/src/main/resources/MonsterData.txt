@@ -1,0 +1,3 @@
+str-Goblin 40
+str-Orc 60
+str-Troll 70
